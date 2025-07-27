@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student at Albertian Institute of Science and Technology  
 💻 Exploring Python, Web Development, and UI/UX  
-🎨 Passionate about sketching — follow my art @ [@velunera_](https://instagram.com/velunera_)  
+🎨 Passionate about sketching — follow my art  [@velunera_](https://instagram.com/velunera_)  
 📚 Always learning something new!
 
 ---

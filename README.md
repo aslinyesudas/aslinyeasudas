@@ -12,7 +12,7 @@
 - 💼 [LinkedIn](https://linkedin.com/in/aslinyesudas)
 - 📷 [Instagram (Official)](https://instagram.com/aslinyesudas)
 - 🎨 [Art Account](https://instagram.com/velunera_)
-- 🌐 [Portfolio / GitHub Pages](https://aslinyesudas.github.io) (if you create one)
+- 🌐 [Portfolio / GitHub Pages](https://aslinyesudas.github.io) 
 
 ---
 
